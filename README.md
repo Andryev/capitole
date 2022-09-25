@@ -2,4 +2,4 @@
 Capitole technical test for Spring Boot
 
 
-https://github.com/Andryev/capitole/actions/workflows/maven.yml/badge.svg
+![example workflow](https://github.com/Andryev/capitole/actions/workflows/maven.yml/badge.svg)
